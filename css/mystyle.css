@@ -1,0 +1,35 @@
+a:link{
+    text-decoration:none;
+    color:gray;
+}
+
+a:visited{
+    color:pink;
+}
+
+a:hover{
+    color:red;
+    font:weight:bold;
+    test-decoration:underline
+}
+
+a:active{
+    color:yellow;
+}
+h3{
+    color:red;
+    font-size:30px;
+    text-align:center;
+    text-decoration:underline;
+    font-family:"휴면옛체";
+    font-style:italic;
+
+}
+
+p{
+    color:blue;
+    line-height:200%;
+    font-family:"궁서체";
+    font-weight:lighter;
+
+}
