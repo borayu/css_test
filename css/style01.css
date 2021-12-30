@@ -4,12 +4,13 @@ h1 {
     background-color:pink;
 }
 
-#blue{
+#blue {
     color:white;
     background-color:blue;
 }
 
-body{
+body {
     background-image:url('../img/flower_bee.jpg');
-    background-repeat:repeat-y;
+    background-repeat:no-repeat;
+    background-position:100px 50px;
 }
